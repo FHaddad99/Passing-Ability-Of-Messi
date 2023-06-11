@@ -1,5 +1,5 @@
 
-# SRC FTBL Final Project
+# Evaluating Messi's Passing Ability
 
 This project evaluates Messi's passing ability using data from statsbombpy and Statsbomb360. I use the programming language Python to write the code for my analysis within Jupyter Notebooks. The project is a part of a technical interview process for SRC FTBL.
 
